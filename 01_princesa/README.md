@@ -1,6 +1,6 @@
 ## PRINCESA
 
-## DESENVOLVIMENTO
+## Desenvolvimento do trabalho:
 
 Fiz esse trabalho com a ajuda de alguns amigos que já haviam feito, e me ajudaram bastante com as dúvidas que eu tinha.
 Demorei um pouco pra submeter o trabalho pois como cheguei depois na turma ainda estava me habituando a nova linguagem e ao conteúdo.

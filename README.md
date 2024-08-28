@@ -1,3 +1,3 @@
-# ED-2018.1
+# ESTUDOS DE ESTRUTURA DE DADOS COM C++
 
-Disciplina de Estrutura de Dados com C++
+
